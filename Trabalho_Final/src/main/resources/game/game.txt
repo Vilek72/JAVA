@@ -1,0 +1,18 @@
+MonstroTucana Monstro 1
+fase Um grupo de amigos estava caminhando em direção ao "laguinho" do ANGLO em um horario de aula vago antes do almoço, quando se aproximam de uma caverna de onde ouviram alguns barulhos estranhos. Entrando nessa caverna, a porta quebra e de repente:UMA CRIATURA DESCONHECIDA SURGE, É HORA DE USAR SUAS HABILIDADES PARA VENCER A BATALHA!
+MonstroCalvo Monstro 1
+MonstroTucana Monstro 2
+fase Após derrotar essa terrível criatura, o grupo se une para tentar fugir daquela caverna sombria. À caminho, eles escutam agora um barulho ainda mais forte... SE PREPAREM, AGORA NÃO É APENAS UM!
+MonstroCalvo Monstro 2
+MonstroVilek Monstro 2
+fase Apesar das vitórias, o grupo agora esta tenso mas decidem que precisam sair daquele lugar o quanto antes e voltar a tempo do almoço... é quando percebem que estão presos e um novo desafio surge, eles não param de aparecer. ELES VOLTARAM E ESTÃO MAIS FORTES!
+MonstroCalvo Monstro 3
+MonstroVilek Monstro 2
+MonstroTucana Monstro 3
+fase OH NÃO! PARECE QUE AINDA NÃO ACABOU!
+MonstroTucana Monstro 4
+MonstroCalvo Monstro 3
+MonstroVilek Monstro 3
+fase O desespero começa a tomar conta, mas eles tem um único objetivo: sair daquela caverna para conseguirem voltar a tempo de comer, afinal ERA DIA DE NUGGETS! Surgem mais criaturas, mas isso os motiva. TEMOS QUE VENCER!
+MonstroSnape Monstro 5
+fase Eles conseguiram chegar até aqui, seja por nuggets ou vontade de apenas sair daquilo... mas agora é tudo ou nada POIS É O BOSS SNAPE! USEM TUDO QUE TIVEREM!

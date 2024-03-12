@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="505.0" prefWidth="538.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="trabalho_final.kittysanddragons.ControllerSelection">
+   <children>
+      <ImageView fitHeight="528.0" fitWidth="534.0" layoutX="5.0" layoutY="-25.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../files/images/selecao.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="47.0" layoutY="437.0" mnemonicParsing="false" onAction="#eventBack" onMouseEntered="#buttonBackHoverIn" onMouseExited="#buttonBackOut" style="-fx-background-radius: 100; -fx-background-color: #f7bea3; -fx-font-size: 15px; -fx-font-weight: bold;" text="Back" textFill="#ff5757">
+         <font>
+            <Font name="Segoe UI" size="16.0" />
+         </font>
+      </Button>
+      <Button layoutX="451.0" layoutY="437.0" mnemonicParsing="false" onAction="#eventGo" onMouseEntered="#buttonGoHoverin" onMouseExited="#buttonGoHoverOut" style="-fx-background-radius: 100; -fx-background-color: #f7bea3; -fx-font-size: 15px; -fx-font-weight: bold;" text="Go!" textFill="#ff5757">
+         <font>
+            <Font name="Segoe UI" size="16.0" />
+         </font>
+      </Button>
+      <Label fx:id="labelFaseBatalha" layoutX="54.0" layoutY="69.0" prefHeight="345.0" prefWidth="430.0" textAlignment="JUSTIFY" textFill="#ff5757" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="Segoe UI" size="18.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

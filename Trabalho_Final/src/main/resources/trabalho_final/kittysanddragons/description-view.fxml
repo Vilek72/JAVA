@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="543.0" prefWidth="565.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="trabalho_final.kittysanddragons.ControllerDescription">
+   <children>
+      <ImageView fitHeight="669.0" fitWidth="588.0" layoutX="-11.0" layoutY="-32.0" onMouseClicked="#imageClickOnWarrior" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../files/images/blur.JPEG" />
+         </image>
+      </ImageView>
+      <Button fx:id="buttonSave" layoutX="255.0" layoutY="498.0" mnemonicParsing="false" onAction="#eventSave" onMouseEntered="#buttonSaveHoverIn" onMouseExited="#buttonSaveHoverOut" style="-fx-background-radius: 100; -fx-background-color: #f7bea3; -fx-font-size: 15px; -fx-font-weight: bold;" text="Save" textFill="#ff5757">
+         <font>
+            <Font name="Segoe UI" size="16.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="150.0" fitWidth="133.0" layoutX="70.0" layoutY="196.0" onMouseClicked="#imageClickOnWarrior" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../files/images/Guerreiro.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="158.0" fitWidth="159.0" layoutX="203.0" layoutY="183.0" onMouseClicked="#imageClickOnArcher" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../files/images/Arqueiro.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="133.0" fitWidth="133.0" layoutX="375.0" layoutY="201.0" onMouseClicked="#imageClickOnMage" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../files/images/Mago.PNG" />
+         </image>
+      </ImageView>
+      <TextField fx:id="textNameWarrior" layoutX="53.0" layoutY="341.0" />
+      <TextField fx:id="textNameArcher" layoutX="226.0" layoutY="341.0" />
+      <TextField fx:id="textNameMage" layoutX="392.0" layoutY="341.0" />
+      <Button fx:id="buttonGo" layoutX="496.0" layoutY="498.0" mnemonicParsing="false" onAction="#eventGo" onMouseEntered="#buttonGoHoverIn" onMouseExited="#buttonGoHoverOut" style="-fx-background-radius: 100; -fx-background-color: #f7bea3; -fx-font-size: 15px; -fx-font-weight: bold;" text="Go!" textFill="#ff5757">
+         <font>
+            <Font name="Segoe UI" size="16.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>
